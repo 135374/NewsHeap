@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Kunwar's\\AndroidStudioProjects\\NewsHeap\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Kunwar's\\AndroidStudioProjects\\NewsHeap\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\zprojects\\NewsHeap\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "F:\\zprojects\\NewsHeap\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\AndroidStudioProjects\\NewsHeap\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\shiva\\AndroidStudioProjects\\NewsHeap\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

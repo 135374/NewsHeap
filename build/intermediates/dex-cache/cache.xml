@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\shiva\.android\build-cache\db4f00d30e6817b1583cc10bea1fdffed5e78188\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\shiva\AndroidStudioProjects\NewsHeap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e54fccb1658cd56152b2563b01b09e1cc2d031e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shiva\AndroidStudioProjects\NewsHeap\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1cac0eb377a7c63ebd504b2939c3b8c351e7e0b8">
+        <dex dex="C:\Users\shiva\AndroidStudioProjects\NewsHeap\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d43fa525ae77130260635d3b0cf1becb1e7e9208\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shiva\.android\build-cache\7a2abadc94f6ea3fe13910c23ad7bb033d2d864f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\shiva\AndroidStudioProjects\NewsHeap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2646d2672855a20a2ed6c3165f78722d3e0729a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shiva\.gradle\caches\modules-2\files-2.1\com.dubsmash.volley\library\2.0.1\8b2572dd32db404209ac150a0a0ef38bc45316cc\library-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8b2572dd32db404209ac150a0a0ef38bc45316cc">
+        <dex dex="C:\Users\shiva\AndroidStudioProjects\NewsHeap\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.0.1_d8614b994c3335dd72f6487ede39408257c69aaa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shiva\.android\build-cache\7a2abadc94f6ea3fe13910c23ad7bb033d2d864f\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\shiva\AndroidStudioProjects\NewsHeap\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f56b7d349158f1993fdfb8f40e5cf5c64c22c763\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\zprojects\NewsHeap\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="F:\zprojects\NewsHeap\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f9289e152cbe0567b6dee339c8e96fca6fb5134f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shiva\.gradle\caches\modules-2\files-2.1\com.dubsmash.volley\library\2.0.1\8b2572dd32db404209ac150a0a0ef38bc45316cc\library-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8b2572dd32db404209ac150a0a0ef38bc45316cc">
+        <dex dex="F:\zprojects\NewsHeap\app\build\intermediates\pre-dexed\debug\library-2.0.1_d8614b994c3335dd72f6487ede39408257c69aaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\zprojects\NewsHeap\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="F:\zprojects\NewsHeap\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_51f38f0039a1a123eb893eec5985d9d36e050f3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\zprojects\NewsHeap\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="F:\zprojects\NewsHeap\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e3ef7751fc402ae172b74355f7abdd72df3ac460.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\zprojects\NewsHeap\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="F:\zprojects\NewsHeap\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_1609069f39bf153ddbc3d755bedbe6954ebc9976.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shiva\.android\build-cache\db4f00d30e6817b1583cc10bea1fdffed5e78188\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\shiva\AndroidStudioProjects\NewsHeap\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4050ae9cdf7f034f33711b72f14c443699f1fce3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\zprojects\NewsHeap\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="F:\zprojects\NewsHeap\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_27117a9f1af7d19f29f1bd5a0f0b9508d3cbc922.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shiva\.android\build-cache\e813e7ff15985a56a32301b83a6d6dcb55f8840b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\shiva\AndroidStudioProjects\NewsHeap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7b1849458d7d7c77dc884df5f4a80f6fa9a99781\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\zprojects\NewsHeap\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="F:\zprojects\NewsHeap\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_4b7535b90626117f9537f60809a9acde6ab8e8af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\zprojects\NewsHeap\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="F:\zprojects\NewsHeap\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_6ec3a72ef7747c58736ba6347bfae24a651032f1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shiva\AndroidStudioProjects\NewsHeap\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\shiva\AndroidStudioProjects\NewsHeap\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_39708b31d295809ca8951c36b3e42dc2cac93a14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shiva\.android\build-cache\7b34d43a6808786fb4a32b1fb5f8c38d5e32d421\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\shiva\AndroidStudioProjects\NewsHeap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_70768411783cece1293f31b86acbc27a5e751e51\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\zprojects\NewsHeap\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\zprojects\NewsHeap\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_6843be3045c2f3fd2a15e5931baaa8363ee53dfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shiva\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\5.1.1\b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8\butterknife-5.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8">
+        <dex dex="F:\zprojects\NewsHeap\app\build\intermediates\pre-dexed\debug\butterknife-5.1.1_f63356d97e6224a2f999d357a9e8eb49502760fa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shiva\.android\build-cache\e56ca9e50a43ff0f5ac0515c034b2688c4a5566d\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\shiva\AndroidStudioProjects\NewsHeap\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7526ae32baff548db8d49a73b154bc51a1d9742a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shiva\.android\build-cache\472009a6da95150f2eb1a60d596d07b240d2c431\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\shiva\AndroidStudioProjects\NewsHeap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f416b9951ead481d9b447416c6f0902f1eca4641\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shiva\.android\build-cache\e813e7ff15985a56a32301b83a6d6dcb55f8840b\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\shiva\AndroidStudioProjects\NewsHeap\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_795abdf78a4a39ccd59c1eed53a3e7bf16dc1732\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\zprojects\NewsHeap\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="F:\zprojects\NewsHeap\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_e9ae4f5e42c8ede71cae27e299d5f878d169cd44.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shiva\.android\build-cache\671907fbeee0d811c3ee028968cc4a1896ce6507\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\shiva\AndroidStudioProjects\NewsHeap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dce5b135cea38849677a0921060428a0c5f8291f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shiva\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\5.1.1\b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8\butterknife-5.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8">
+        <dex dex="C:\Users\shiva\AndroidStudioProjects\NewsHeap\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-5.1.1_f63356d97e6224a2f999d357a9e8eb49502760fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\zprojects\NewsHeap\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="F:\zprojects\NewsHeap\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_dd5908e3daac24908ca8db5e7e3166b898a1ce9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\zprojects\NewsHeap\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="F:\zprojects\NewsHeap\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_c67f71282e9c7869be7521243606df607f856138.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shiva\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="F:\zprojects\NewsHeap\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_2d2798d900bbfe7a28e8703eb5b56fbcdfaa62cd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shiva\.android\build-cache\7b34d43a6808786fb4a32b1fb5f8c38d5e32d421\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\shiva\AndroidStudioProjects\NewsHeap\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e4bbb47a78768883a869dc61fe8db6038f7cbdda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shiva\.android\build-cache\9455b38a0eabdb2cf4699e656d001e1c60b1d680\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="C:\Users\shiva\AndroidStudioProjects\NewsHeap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_12138ca39bcc32c128b5de8c8005a7c917c3f751\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shiva\.android\build-cache\e56ca9e50a43ff0f5ac0515c034b2688c4a5566d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\shiva\AndroidStudioProjects\NewsHeap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5bc45661541aa14bd4ddf9f4f927441d739cfbf5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\zprojects\NewsHeap\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="F:\zprojects\NewsHeap\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_70ffed930ee54f2c4c8415e1c404c75c9ab3d65f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shiva\.android\build-cache\227bbf3814f77810d50b65379cdf7d690d61eb54\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\shiva\AndroidStudioProjects\NewsHeap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9dc2af1c744ebfa8ee5fe72c03aefec32d749fb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\zprojects\NewsHeap\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="F:\zprojects\NewsHeap\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_b585543dd59b64b677d3d7e2f34db98f070fe0c5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shiva\.android\build-cache\17780d3d7395ceff0f133dc3e40d5be3f6977074\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\shiva\AndroidStudioProjects\NewsHeap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_274024b0fab528aa32a8103c1d1279d0ee5f6c6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shiva\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\shiva\AndroidStudioProjects\NewsHeap\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_2d2798d900bbfe7a28e8703eb5b56fbcdfaa62cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\zprojects\NewsHeap\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="F:\zprojects\NewsHeap\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.2.1_42a4206b5bc2f9b2b81d3336a36013b36dc26944.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\zprojects\NewsHeap\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="F:\zprojects\NewsHeap\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_259943f865a437f2ba687f8eca0e3fa289fd1124.jar" />
+    </item>
+
+</items>
